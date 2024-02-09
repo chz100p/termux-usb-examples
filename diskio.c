@@ -15,7 +15,7 @@
 #define DEV_MMC		1	/* Example: Map MMC/SD card to physical drive 1 */
 #define DEV_USB		2	/* Example: Map USB MSD to physical drive 2 */
 
-extern unsigned char ff_storage[];
+// extern unsigned char ff_storage[];
 extern FATFS fs;
 
 /*-----------------------------------------------------------------------*/
